@@ -1,10 +1,7 @@
 <div align="center">
-  <a href="https://vivimusic.mkmdevilmi.workers.dev/">
-    <img src="assets/bannerofficial.png" alt="VIVI Music Banner" style="display: block; margin: 0 auto; max-width: 100%"/>
-  </a>
   <br>
-  <h1>VIVI Music</h1>
-  <h3>More Than Just Music — Your Ultimate Audio Experience</h3>
+  <h1>Clover Music</h1>
+  <h3>simple fork of vivimusic</h3>
 
   <p>
     <a href="https://github.com/vivizzz007/vivi-music/releases">
